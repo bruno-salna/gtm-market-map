@@ -1,0 +1,9 @@
+country,register_id,legal_name,legal_form,status,status_normalised,registered_date,industry_code,industry_code_system,region,city,employees,employees_range,revenue,revenue_currency,financials_year,domain,domain_confidence,in_market,excluded_by,segment,source_name,source_date
+XX,0012345678,Sunfield Bakery Ltd,Ltd,Registered,active,2009-04-17,10.71,NACE Rev. 2.1,North,Harbourtown,48,,6200000,EUR,2024,sunfieldbakery.example,high,true,,Bakery,Examplia business register,2026-01-15
+XX,0023456789,Valley Creamery Ltd,Ltd,Registered,active,2014-09-02,10.51,NACE Rev. 2.1,East,Millbrook,112,,21400000,EUR,2024,valleycreamery.example,high,true,,Dairy,Examplia business register,2026-01-15
+XX,0034567890,Ridge Meats Ltd,Ltd,Registered,active,2017-03-28,10.13,NACE Rev. 2.1,South,Stonebridge,23,,3900000,EUR,2024,ridge-meats.example,medium,true,,Meat processing,Examplia business register,2026-01-15
+XX,0045678901,Oak Lane Foods Ltd,Ltd,Registered,active,2019-11-11,10.89,NACE Rev. 2.1,West,Fairhaven,15,,,,2024,,,true,,Other food,Examplia business register,2026-01-15
+XX,0056789012,Old Mill Bakery Ltd,Ltd,In liquidation,in_liquidation,2003-06-05,10.71,NACE Rev. 2.1,North,Harbourtown,,,,,,,,false,status,,Examplia business register,2026-01-15
+XX,0067890123,Maple Street Pastries,Sole trader,Registered,active,2021-02-19,10.71,NACE Rev. 2.1,East,Millbrook,,,,,,,,false,legal_form,,Examplia business register,2026-01-15
+XX,0078901234,Brightwater Trading Ltd,Ltd,Registered,active,2011-08-30,46.33,NACE Rev. 2.1,South,Stonebridge,,,,,,,,false,industry_code,,Examplia business register,2026-01-15
+XX,0089012345,Little Hill Dairy Ltd,Ltd,Registered,active,2016-05-12,10.51,NACE Rev. 2.1,West,Fairhaven,6,,800000,EUR,2024,,,false,size,,Examplia business register,2026-01-15
