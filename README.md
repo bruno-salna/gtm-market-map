@@ -36,7 +36,7 @@ You supply the market and the country. The agent works out the rest and checks w
 ## Part of a series
 This is the first of five guides that chain together through a [shared row schema](schema.md):
 
-**Market map** → List quality → ICP + tiering → Signals → Orchestrator
+**Market map** → [List quality](https://github.com/bruno-salna/gtm-list-quality) → ICP + tiering → Signals → Orchestrator
 
 Each guide works on its own. Used together, each one picks up the previous one's output.
 
