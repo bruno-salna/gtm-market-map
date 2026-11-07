@@ -56,6 +56,6 @@ This is the output format for every repo in the series: Market map → List qual
 |---|---|---|
 | List quality | `quality_` | `quality_display_name`, `quality_duplicate_of`, `quality_usable`; full list in its [schema](https://github.com/bruno-salna/gtm-list-quality/blob/main/schema.md) |
 | ICP + tiering | `icp_`, `tier` | `icp_score`, `icp_confidence`, `tier`; full list in its [schema](https://github.com/bruno-salna/gtm-icp-tiering/blob/main/schema.md) |
-| Signals | `signal_` | `signal_type`, `signal_date`, `signal_note` |
+| Signals | `signal_` | `signal_priority`, `signal_top_type`, `signal_why_now`; full list in its [schema](https://github.com/bruno-salna/gtm-signals/blob/main/schema.md) |
 | Orchestrator | `run_` | `run_id`, `run_step` |
 | (input columns) | `src_` | Input columns that don't map to the schema, kept as they came |
